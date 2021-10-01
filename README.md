@@ -29,6 +29,9 @@ python3 main.py
 - redoc docs - localhost:8000/redoc
 - Deployed on aws served by supervisor and nginx 
     - Public DNS https://ec2-13-126-40-21.ap-south-1.compute.amazonaws.com/
+    - Swagger Docs http://ec2-13-126-40-21.ap-south-1.compute.amazonaws.com/swagger
+    - Redoc Docs http://ec2-13-126-40-21.ap-south-1.compute.amazonaws.com/redoc
+
   
 ## Author
 
